@@ -5,7 +5,9 @@
 
 ![Alt text](https://github-readme-stats.vercel.app/api?username=hamzamg&show_icons=true "Title")
 
+<!---
 ![Alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamg&layout=compact "Title")
+-->
 
 ## Trophy
 
