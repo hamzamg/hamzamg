@@ -12,3 +12,8 @@
 ## Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hamzamg)
+
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/hamzamg/count.svg" alt ="Loading">
