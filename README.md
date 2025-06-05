@@ -13,17 +13,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hamzamg&show_icons=true&theme=radical&hide_border=true" alt="إحصائيات" />
+      <img src="https://github-readme-stats.vercel.app/api?username=hamzamg&show_icons=true&theme=gruvbox&hide_border=true" alt="إحصائيات" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamg&layout=compact&theme=radical&hide_border=true" alt="اللغات الأكثر استخداماً" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamg&layout=compact&theme=gruvbox&hide_border=true" alt="اللغات الأكثر استخداماً" />
     </td>
   </tr>
 </table>
 
 ## 🏆 الجوائز
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzamg&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="الجوائز" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzamg&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" alt="الجوائز" />
 </div>
 
 ## 👀 عدد الزوار
