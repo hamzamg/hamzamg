@@ -30,3 +30,11 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/hamzamg/count.svg" alt="عدد الزوار" />
 </p>
+
+
+## 🔓 الزيارات غير المقفلة
+<div align="center">
+  
+![عدد الزيارات غير المقفلة](https://img.shields.io/endpoint?url=https://hits.dwyl.com/hamzamg/hamzamg.json?color=689d6a&label=unlocked&style=flat-square)
+
+</div>
