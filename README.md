@@ -2,7 +2,7 @@
   
 # 👨‍💻 Hemza Messai
 
-[![GitHub](https://img.shields.io/badge/GitHub_Profile-8ec07c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamg)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-8ec07c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamg)
 
 </div>
 
@@ -19,11 +19,10 @@
 </div>
 
 ## 📊 إحصائيات GitHub
-
 <div align="center">
   
-| <img src="https://github-readme-stats.vercel.app/api?username=hamzamg&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true" alt="إحصائيات" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamg&layout=compact&theme=gruvbox&hide_border=true" alt="اللغات الأكثر استخداماً" /> |
-| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=hamzamg&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamg&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" /> |
+| :---: | :---: |
 
 </div>
 
@@ -34,10 +33,10 @@
 
 </div>
 
-## 🎖️ أوسمة GitHub المتحصل عليها
+## 🎖️ إنجازات GitHub
 <div align="center">
   
-![Achievements](https://github-profile-achievements.vercel.app/all?username=hamzamg&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true&column=4)
+![GitHub Achievements](https://github-readme-streak-stats.herokuapp.com/?user=hamzamg&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282828)
 
 </div>
 
@@ -45,10 +44,9 @@
 <div align="center">
   
 ### 🔓 الزيارات غير المقفلة
-<img src="https://count.getloli.com/get/@hamzamg?theme=moebooru" alt="Unlocked Visits" style="height: 40px;" />
-<span style="color: #689d6a; font-weight: bold; font-size: 18px; margin-left: 10px;">UNLOCKED</span>
+<img src="https://count.getloli.com/get/@hamzamg?theme=nixietube-1&padding=5&offset=0&align=center&scale=1&pixelated=0&darkmode=auto&num=4296" alt="Unlocked Visits" />
 
 ### 📈 الزيارات الفعلية
-<img src="https://visitor-badge.glitch.me/badge?page_id=hamzamg.hamzamg" alt="Actual Visits" style="height: 40px;" />
+![Visitor Count](https://komarev.com/ghpvc/?username=hamzamg&color=689d6a&style=flat-square&label=ACTUAL+VISITS)
 
 </div>
