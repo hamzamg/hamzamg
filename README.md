@@ -1,37 +1,54 @@
-# 👨‍💻 Hemza Messai 
+<div align="center">
+  
+# 👨‍💻 Hemza Messai
 
+[![GitHub](https://img.shields.io/badge/GitHub_Profile-8ec07c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamg)
 
+</div>
 
 ## 🔧 التقنيات واللغات
-![Python](https://img.shields.io/badge/Python-458588?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-d79921?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-cc241d?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-458588?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-bdae93?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-3c3836?style=flat-square&logo=github&logoColor=white)
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-458588?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-d79921?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-458588?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-689d6a?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8ec07c?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-cc241d?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ## 📊 إحصائيات GitHub
 
 <div align="center">
   
-![إحصائيات](https://github-readme-stats.vercel.app/api?username=hamzamg&show_icons=true&theme=gruvbox&hide_border=true)
-![اللغات الأكثر استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamg&layout=compact&theme=gruvbox&hide_border=true)
+| <img src="https://github-readme-stats.vercel.app/api?username=hamzamg&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true" alt="إحصائيات" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamg&layout=compact&theme=gruvbox&hide_border=true" alt="اللغات الأكثر استخداماً" /> |
+| --- | --- |
 
 </div>
 
-## 🏆 الجوائز
+## 🏆 جوائز GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzamg&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" alt="الجوائز" />
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hamzamg&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)
+
 </div>
 
-## 🔓 الزيارات غير المقفلة
+## 🎖️ أوسمة GitHub المتحصل عليها
 <div align="center">
-  <svg width="200" height="60" xmlns="http://www.w3.org/2000/svg" style="background-color: #282828; border-radius: 8px;">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="color: #a9b665; font-family: monospace; font-size: 24px; font-weight: bold; text-align: center; line-height: 60px;">
-        <img src="https://profile-counter.glitch.me/hamzamg/count.svg" style="filter: invert(90%) sepia(10%) saturate(500%) hue-rotate(60deg) brightness(100%) contrast(90%); vertical-align: middle;"/>
-      </div>
-    </foreignObject>
-    <text x="50%" y="85%" text-anchor="middle" fill="#689d6a" font-family="Arial" font-size="12" font-weight="bold">UNLOCKED VISITS</text>
-  </svg>
+  
+![Achievements](https://github-profile-achievements.vercel.app/all?username=hamzamg&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true&column=4)
+
+</div>
+
+## 👀 عداد الزيارات
+<div align="center">
+  
+### 🔓 الزيارات غير المقفلة
+<img src="https://count.getloli.com/get/@hamzamg?theme=moebooru" alt="Unlocked Visits" style="height: 40px;" />
+<span style="color: #689d6a; font-weight: bold; font-size: 18px; margin-left: 10px;">UNLOCKED</span>
+
+### 📈 الزيارات الفعلية
+<img src="https://visitor-badge.glitch.me/badge?page_id=hamzamg.hamzamg" alt="Actual Visits" style="height: 40px;" />
+
 </div>
