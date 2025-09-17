@@ -7,24 +7,24 @@
 
 ## 🔧 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-f2cdcd?logo=python&logoColor=302d41" />
+  <img src="https://img.shields.io/badge/Dart-f5e0dc?logo=dart&logoColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/JavaScript-fab387?logo=javascript&logoColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/C%23-94e2d5?logo=c-sharp&logoColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/SQL-a6e3a1?logo=sqlite&logoColor=1e1e2e" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinUI-0078D4?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-89b4fa?logo=flutter&logoColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Next.js-cba6f7?logo=next.js&logoColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/WinUI-f9e2af?logo=windows&logoColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Odoo-f38ba8?logo=odoo&logoColor=1e1e2e" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-94e2d5?logo=docker&logoColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Git-fab387?logo=git&logoColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Figma-eba0ac?logo=figma&logoColor=1e1e2e" />
 </p>
 
 ---
@@ -46,13 +46,13 @@
 
 ## 📫 Contact
 <p>
-  <a href="mailto:hemza.messai.ps@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-f38ba8?logo=gmail&logoColor=1e1e2e" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+ <a href="#">>
+    <img src="https://img.shields.io/badge/LinkedIn-89b4fa?logo=linkedin&logoColor=1e1e2e" />
   </a>
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-a6e3a1?logo=vercel&logoColor=1e1e2e" />
   </a>
 </p>
