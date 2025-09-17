@@ -49,7 +49,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Email-f38ba8?logo=gmail&logoColor=1e1e2e" />
   </a>
- <a href="#">>
+ <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-89b4fa?logo=linkedin&logoColor=1e1e2e" />
   </a>
   <a href="#">
