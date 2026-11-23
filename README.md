@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Hamza Messai 👋</h1>
-  <p><strong>Software Developer · Full-Stack & Desktop Applications</strong></p>
+  <p><strong>Software Developer · Full-Stack &amp; Desktop Applications</strong></p>
   <p>
     I enjoy turning ideas and complex requirements into reliable, thoughtful software.
     My interests span application development, software architecture, and the connection
@@ -16,6 +16,8 @@ I'm a software developer who enjoys learning, building, and solving practical pr
 
 I'm particularly interested in maintainable architecture, dependable local-first applications, and tools that make everyday workflows better. Outside application development, I enjoy exploring electronics, physics, and embedded systems.
 
+---
+
 ## Areas of Focus
 
 - **Full-Stack Development** — building structured, type-safe web applications.
@@ -24,32 +26,39 @@ I'm particularly interested in maintainable architecture, dependable local-first
 - **Software Engineering** — modular architecture, maintainability, and practical problem-solving.
 - **Electronics & Embedded Systems** — connecting software concepts with hardware and the physical world.
 
+---
+
 ## Technology
 
-<p>
-  <strong>Languages</strong><br />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-313244?style=flat-square&amp;logo=typescript&amp;logoColor=89b4fa" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-313244?style=flat-square&amp;logo=javascript&amp;logoColor=f9e2af" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-313244?style=flat-square&amp;logo=rust&amp;logoColor=fab387" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-313244?style=flat-square&amp;logo=python&amp;logoColor=89b4fa" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-313244?style=flat-square&amp;logo=databricks&amp;logoColor=cba6f7" alt="SQL" />
 </p>
 
-<p>
-  <strong>Application Development</strong><br />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<h3 align="center">Application Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-313244?style=flat-square&amp;logo=react&amp;logoColor=89dceb" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-313244?style=flat-square&amp;logo=next.js&amp;logoColor=b4befe" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tauri-313244?style=flat-square&amp;logo=tauri&amp;logoColor=94e2d5" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-313244?style=flat-square&amp;logo=tailwindcss&amp;logoColor=94e2d5" alt="Tailwind CSS" />
 </p>
 
-<p>
-  <strong>Data & Tools</strong><br />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<h3 align="center">Data &amp; Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-313244?style=flat-square&amp;logo=postgresql&amp;logoColor=89b4fa" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-313244?style=flat-square&amp;logo=sqlite&amp;logoColor=a6e3a1" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-313244?style=flat-square&amp;logo=docker&amp;logoColor=74c7ec" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-313244?style=flat-square&amp;logo=git&amp;logoColor=fab387" alt="Git" />
 </p>
+
+---
 
 ## Currently Exploring
 
@@ -58,11 +67,17 @@ I'm particularly interested in maintainable architecture, dependable local-first
 - Offline-first application patterns and data reliability.
 - The intersection of software, electronics, and embedded systems.
 
+---
+
 ## Connect
 
 The best place to follow my work and development activity is GitHub:
 
-[![GitHub](https://img.shields.io/badge/GitHub-hamzamg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzamg)
+<p align="center">
+  <a href="https://github.com/hamzamg">
+    <img src="https://img.shields.io/badge/GitHub-hamzamg-313244?style=for-the-badge&amp;logo=github&amp;logoColor=cba6f7" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
